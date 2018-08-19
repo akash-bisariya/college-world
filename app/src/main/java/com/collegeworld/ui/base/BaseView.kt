@@ -52,11 +52,6 @@ interface BaseView {
      */
     fun showErrorMessage(message: Int, mOnErrorHandleCallback: OnErrorHandleCallback?)
 
-    /**
-     * Db query result
-     */
-    fun onDbQueryResult()
-
 
     /**
      * The interface On error handle callback.

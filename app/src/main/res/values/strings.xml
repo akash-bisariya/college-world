@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">College World</string>
+    <string name="txt_sign_in_using_email">Sign in using Email</string>
 </resources>

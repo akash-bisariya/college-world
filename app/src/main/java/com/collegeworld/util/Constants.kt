@@ -6,6 +6,7 @@ package com.one.vms.util
  */
 
 const val VISITOR_ID = "visitorId"
+const val RC_GOOGLE_SIGN_IN = 1000
 
 
 
